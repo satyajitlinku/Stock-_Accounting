@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/satyajit.k/Documents/satyajit/datadrivenproject/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

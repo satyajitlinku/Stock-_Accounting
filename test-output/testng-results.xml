@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81043" started-at="2019-11-21T07:58:16Z" finished-at="2019-11-21T07:59:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81043" started-at="2019-11-21T07:58:16Z" finished-at="2019-11-21T07:59:37Z">
+      <class name="DriverFactory.ERP_DataDriven">
+        <test-method status="PASS" signature="launchapp()[pri:0, instance:DriverFactory.ERP_DataDriven@c038203]" name="launchapp" is-config="true" duration-ms="12118" started-at="2019-11-21T13:28:16Z" finished-at="2019-11-21T13:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method status="PASS" signature="verify_supplier()[pri:0, instance:DriverFactory.ERP_DataDriven@c038203]" name="verify_supplier" duration-ms="64048" started-at="2019-11-21T13:28:28Z" finished-at="2019-11-21T13:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_supplier -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:DriverFactory.ERP_DataDriven@c038203]" name="logout" is-config="true" duration-ms="4865" started-at="2019-11-21T13:29:32Z" finished-at="2019-11-21T13:29:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- DriverFactory.ERP_DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
